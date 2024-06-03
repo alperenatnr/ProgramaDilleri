@@ -1,0 +1,9 @@
+class Araba {
+    private String marka;
+    private String model;
+    private int yil;
+}
+
+class ElektrikliAraba extends Araba {
+    private int batarya;
+}
